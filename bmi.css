@@ -1,0 +1,47 @@
+form {
+    height: 500px;
+    width: 400px;
+    border: 8px solid black;
+    position: absolute;
+    left: 450px;
+    top: 50px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+}
+
+label {
+    font-size: 30px;
+    padding-left: 120px;
+}
+
+input {
+    height: 30px;
+    width: 250px;
+    border: 3px solid black;
+}
+
+#o {
+    margin-left: 50px;
+}
+
+#w {
+    margin-left: 50px;
+}
+
+
+/* 
+button {
+    font-size: 25px;
+} */
+
+#b {
+    margin-left: 100px;
+    font-size: 25px;
+    height: 40px;
+    width: 150px;
+}
+
+#q {
+    margin-left: 50px;
+}
